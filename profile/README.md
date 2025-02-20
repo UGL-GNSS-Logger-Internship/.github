@@ -49,8 +49,12 @@ The project is structured to facilitate ease of navigation and usability, with d
 
 ---
 For any inquiries or support, please reach out to:
-darren.huo@student.unsw.edu.au
-
+- Project lead: m.baydoun@student.unsw.edu.au
+- Computer Vision: darren.huo@student.unsw.edu.au
+- Interpolation Algorithm: riya.mathew@student.unsw.edu.au
+- Electronics and PCB: tianhui.zhu@student.unsw.edu.au
+- GPS module and code: caikun.peng@student.unsw.edu.au
+- 3D CAD design: alex.a.oneill@student.unsw.edu.au
 
 <!--
 This github was made in 2025 Janurary to Feburary.
